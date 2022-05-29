@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "name": "x19listen-guild",
+      "script": "./app.ts",
+      "max_memory_restart": "512M",
+      "restart_delay": 60000
+    }
+  ]
+}

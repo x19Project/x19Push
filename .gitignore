@@ -102,8 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
-<<<<<<< HEAD
-=======
 
 # oicq data
 data
@@ -118,3 +116,7 @@ data/data.db
 # yarn lock
 yarn.lock
 package-lock.json
+
+# test file
+test
+*.test

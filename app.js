@@ -3,7 +3,6 @@ import { init } from "./lib/init.js"
 import { createClient } from "oicq"
 import { GuildApp } from "oicq-guild"
 
-import { tests } from "./lib/test.js"
 import { cmdMgr } from "./lib/cmdmgr.js"
 import { addAdmin } from "./lib/utils/sql.js"
 
@@ -42,7 +41,6 @@ Bot.on("system.login.error", function (e) {
 
 // 监听上线
 Bot.on("system.online", async () => {
-  Bot.logger.mark("上线");
   await init();
 });
 
@@ -55,14 +53,16 @@ global.BotGuild = BotGuild;
 
 
 // 列出频道列表
+/*
 BotGuild.on("ready", function () {
   console.log("My guild list:")
   console.log(this.guilds)
 })
+*/
 
 // 监听频道消息
 BotGuild.on("message", e => {
-  console.log(e)
+  // console.log(e)
   
   try {
     if(e.raw_message === BindCode) {

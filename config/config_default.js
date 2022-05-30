@@ -3,6 +3,8 @@
   不要修改config_default.js，两个文件都不要删除！
 */
 let config = {
+  // debug开关
+  debug: false,
   // Bot账号配置
   bot: {
     account: "0", // Bot的QQ号

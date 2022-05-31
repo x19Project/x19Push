@@ -5,7 +5,10 @@
   "main": "app.js",
   "type": "module",
   "scripts": {
-    "test": "node ./app.js"
+    "app": "node ./app.js",
+    "start": "pm2 start ./config/system/pm2.json",
+    "stop": "pm2 stop x19push",
+    "restart": "pm2 restart x19push"
   },
   "keywords": [
     "Minecraft",

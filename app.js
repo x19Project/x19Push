@@ -6,7 +6,7 @@ import { GuildApp } from "oicq-guild"
 import { cmdMgr } from "./lib/cmdmgr.js"
 import { addAdmin } from "./lib/utils/sql.js"
 
-process.title = "x19push-guild";
+process.title = "x19push";
 
 await check();
 

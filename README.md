@@ -8,9 +8,13 @@
 ```bash
 cd ./x19push
 npm install
-# 第一次启动
+
+# 第一次启动，需要使用这个命令，这样就可以进行配置操作
+
 npm run app
-# 后续
+
+# 后续挂服务器后台，可以Ctrl+C，然后用这个
+
 npm run start
 ```
 ## 免责声明&注意事项

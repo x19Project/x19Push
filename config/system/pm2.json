@@ -2,7 +2,7 @@
   "apps": [
     {
       "name": "x19listen-guild",
-      "script": "./app.ts",
+      "script": "node ./app.js",
       "max_memory_restart": "512M",
       "restart_delay": 60000
     }

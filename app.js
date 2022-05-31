@@ -51,7 +51,6 @@ const BotGuild = GuildApp.bind(Bot)
 
 global.BotGuild = BotGuild;
 
-
 // 列出频道列表
 /*
 BotGuild.on("ready", function () {

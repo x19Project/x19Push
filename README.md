@@ -17,6 +17,7 @@ npm run app
 
 npm run start
 ```
+[前往查看命令列表](https://github.com/CodePwn2021/x19push/blob/main/cmds.md)
 ## 免责声明&注意事项
 **⚠️一切开发皆为学习对应的开发思想以及开发语言，禁止用于商业或非法用途**  
 ⚠️该项目**并未违反**网易的用户协议，因为请求网易服务器的token实际上**并非**由本项目的代码获取、生成，可自行查看server.js和x19.js，还请网易放过我，求求了。  

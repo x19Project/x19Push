@@ -1,5 +1,5 @@
 # x19Push
-![https://github.com/CodePwn2021/x19Push/blob/main/LICENSE](https://img.shields.io/badge/License-AGPL--3.0-green)   ![](https://img.shields.io/badge/node->=16.14.2-brightgreen)   ![](https://img.shields.io/badge/Version-1.0.5-blue)
+![https://github.com/CodePwn2021/x19Push/blob/main/LICENSE](https://img.shields.io/badge/License-AGPL--3.0-green)   ![](https://img.shields.io/badge/node->=16.14.2-brightgreen)   ![](https://img.shields.io/badge/Version-1.0.6-blue)
 
  <div align=center><img src="./x19push_icon.png" width = "250" height = "250" alt="x19push_icon" align=center/></div>
 

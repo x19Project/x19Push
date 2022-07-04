@@ -1,7 +1,8 @@
 ## 命令列表
 ### admin
-!!admin add @target  
-添加一个管理员
+!!admin add @target <DeveloperID>  
+添加一个管理员  
+DeveloperID可通过 !!getdevid 组件ID 来获取
 
 
 !!admin remove @target  

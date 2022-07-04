@@ -65,7 +65,7 @@ BotGuild.on("message", e => {
   
   try {
     if(e.raw_message === BindCode) {
-      addAdmin(e.sender.tiny_id,true);
+      addAdmin(e.sender.tiny_id,"OWNER",true);
       e.reply("绑定成功");
       delete global.BindCode;
     }

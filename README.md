@@ -1,5 +1,5 @@
 # x19Push
-![https://github.com/CodePwn2021/x19Push/blob/main/LICENSE](https://img.shields.io/badge/License-AGPL--3.0-green)   ![](https://img.shields.io/badge/node->=16.14.2-brightgreen)   ![](https://img.shields.io/badge/Version-1.0.6-blue)
+![https://github.com/CodePwn2021/x19Push/blob/main/LICENSE](https://img.shields.io/badge/License-AGPL--3.0-green)   ![](https://img.shields.io/badge/node->=16.14.2-brightgreen)   ![](https://img.shields.io/badge/Version-1.0.7-blue)
 
  <div align=center><img src="./x19push_icon.png" width = "250" height = "250" alt="x19push_icon" align=center/></div>
 
@@ -27,7 +27,7 @@ npm run start
 **⚠️一切开发皆为学习对应的开发思想以及开发语言，禁止用于商业或非法用途**  
 ⚠️该项目**并未违反**网易的用户协议，因为请求网易服务器的token实际上**并非**由本项目的代码获取、生成，可自行查看server.js和x19.js。
 **使用后造成的后果和本项目开发者无关，用户需自行承担使用责任**  
-禁止删除代码中涉及版权的提示。
+禁止删除代码中涉及版权的提示
 ## 特别感谢
 | 组织/人物 | 相关信息 |
 |:----:|:----:|

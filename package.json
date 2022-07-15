@@ -1,6 +1,6 @@
 {
   "name": "x19Push",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "《我的世界》中国版组件评论/开发者留言板推送bot",
   "main": "app.js",
   "type": "module",

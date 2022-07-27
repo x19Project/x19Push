@@ -1,3 +1,5 @@
+## 已停止维护
+由于后续的更新涉及到部分不可公开代码，因此已停止维护，实在是抱歉。
 # x19Push
 ![https://github.com/CodePwn2021/x19Push/blob/main/LICENSE](https://img.shields.io/badge/License-AGPL--3.0-green)   ![](https://img.shields.io/badge/node->=16.14.2-brightgreen)   ![](https://img.shields.io/badge/Version-1.0.9-blue)
 
